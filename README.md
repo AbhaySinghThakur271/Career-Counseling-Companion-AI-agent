@@ -114,13 +114,14 @@ Here are some questions users can ask the Career Counseling Companion AI:
 
 <img width="929" height="734" alt="Screenshot 2025-07-31 180353" src="https://github.com/AbhaySinghThakur271/Career-Counseling-Companion-AI-agent/blob/main/set_up.png" />
 
+# 🔹 Tools used & Testing..
+
+<img width="890" height="671" alt="image" src="https://github.com/AbhaySinghThakur271/Career-Counseling-Companion-AI-agent/blob/main/tool_testing.png" />
+
 # 🔹 Quick Start Questions...
 
 <img width="874" height="503" alt="image" src="https://github.com/AbhaySinghThakur271/Career-Counseling-Companion-AI-agent/blob/main/quick_start_questions.png" />
 
-# 🔹 Tools used & Testing..
-
-<img width="890" height="671" alt="image" src="https://github.com/AbhaySinghThakur271/Career-Counseling-Companion-AI-agent/blob/main/tool_testing.png" />
 
 # 🔹 Deployment & Preview...
 
